@@ -10,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 so for me I alwayes think of these ways to keep myself in a growth mindset
 
 - Try different learning tactics.
--Value the process over the end result.
--Portray criticism as positive.
+- Value the process over the end result.
+- Portray criticism as positive.
 
 ```
 
