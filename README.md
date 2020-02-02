@@ -4,31 +4,20 @@ You can use the [editor on GitHub](https://github.com/ragadnajjar/learning-journ
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-**Carol Dweack said once:*
+**Carol Dweack said once:**
 >“A growth mindset is when students understand that their abilities can be developed,”
 
-so for me I alwayes 
+so for me I alwayes think of these ways to keep myself in a growth mindset
 
-# Header 1
-## Header 2
-### Header 3
+- Try different learning tactics.
+-Value the process over the end result.
+-Portray criticism as positive.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
+### Jekyll The
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ragadnajjar/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
