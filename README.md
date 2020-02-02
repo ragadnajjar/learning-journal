@@ -1,8 +1,4 @@
-# GROWTH MINDSET 
-
-You can use the [editor on GitHub](https://github.com/ragadnajjar/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# GROWTH MINDEST
 
 **Carol Dweack said once:**
 >“A growth mindset is when students understand that their abilities can be developed,”
