@@ -8,7 +8,7 @@ so for me I alwayes think of these ways to keep myself in a growth mindset
 - Try different learning tactics.
 - Value the process over the end result.
 - Portray criticism as positive.
-you can learn more about how to keep yourself in a [growth mindest] (https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+you can learn more about how to keep yourself in a [growth mindest](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
