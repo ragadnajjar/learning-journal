@@ -1,5 +1,5 @@
 # git summary
-## when we upics definition the local version control systemse the git remote commad,we can view the short names.
+## when we use the git remote commad,we can view the short names.
 ### Also when we use [git](https://git-scm.com/) remote we can use the URLs 
 *the local version control help us to get our ontoils on database on our hard disk*
 # and here are some pictures that are pics definition the local version control system
