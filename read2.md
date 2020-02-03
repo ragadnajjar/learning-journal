@@ -11,5 +11,6 @@ a command  called echo. 
 - absolute
 A file or directory location in relation to the root of the file system.
 - relative
-A file or directory location relative to where we currently are in the file system.
+A file or directory location relative to where we currently are in the file system. 
+ragad najjar.
 
