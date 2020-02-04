@@ -6,4 +6,5 @@
 you can check this examples belw ![example](https://lh3.googleusercontent.com/proxy/B22av54AePk5zsVyAbLvcuDZYQI55A8D-p5w-pWjHF_N0y0MlYXNtQdyj6AMpTPT8yqtvy1KdVgm53z5JIu3mv3MiQwkWKg7I3MfzR3SbR0-Y3Us_V5sZMUCXmWmkvjmTfxfTlih3YkLyUHtUCPNBXCbKKygNvF0)
  ![image](https://doc.cuba-platform.com/reporting-latest/img/example_html_3.png)
 # The <nav> element is used to contain the major navigational blocks on the site
+thank you.
 
